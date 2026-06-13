@@ -1,0 +1,157 @@
+{
+  ".codex/hooks.json": {
+    "mtime": 1781391616.5882812,
+    "ast_hash": "924b03937bfd1f9fd17008f7732e434a",
+    "semantic_hash": ""
+  },
+  "app/api/livekit-token/route.ts": {
+    "mtime": 1781392945.2391808,
+    "ast_hash": "37195caf47f7c5624cd77f7567d36d92",
+    "semantic_hash": ""
+  },
+  "app/api/rooms/route.ts": {
+    "mtime": 1781392945.206442,
+    "ast_hash": "4564c9986d593f7db7ccd78aad0ef737",
+    "semantic_hash": ""
+  },
+  "app/layout.tsx": {
+    "mtime": 1781393033.7547948,
+    "ast_hash": "2b6c0aae85b5b277b9142862c5e7a662",
+    "semantic_hash": ""
+  },
+  "app/page.tsx": {
+    "mtime": 1781393033.7564962,
+    "ast_hash": "0399566622bacbb9a96521140df49975",
+    "semantic_hash": ""
+  },
+  "app/room/[roomId]/page.tsx": {
+    "mtime": 1781393517.95571,
+    "ast_hash": "45700beefc975802f27db034c25cbd04",
+    "semantic_hash": ""
+  },
+  "components/home-shell.tsx": {
+    "mtime": 1781393266.120923,
+    "ast_hash": "1ba3b0ff8cffe9aff5ceb60f89870fe8",
+    "semantic_hash": ""
+  },
+  "components/room-shell.tsx": {
+    "mtime": 1781393517.957726,
+    "ast_hash": "f5fa97ec0f4dac7148eeb3cfea35ac95",
+    "semantic_hash": ""
+  },
+  "components/ui.test.tsx": {
+    "mtime": 1781393517.9617639,
+    "ast_hash": "cb31bd5d0731725e58400396ae67e592",
+    "semantic_hash": ""
+  },
+  "eslint.config.mjs": {
+    "mtime": 1781393517.9639597,
+    "ast_hash": "ab4650a37773b3e9b5f811a89fa0270a",
+    "semantic_hash": ""
+  },
+  "lib/config.ts": {
+    "mtime": 1781392945.1956294,
+    "ast_hash": "8965cab898e563bf54517d7e2b56345b",
+    "semantic_hash": ""
+  },
+  "lib/livekit.test.ts": {
+    "mtime": 1781393295.0572736,
+    "ast_hash": "264b6cd0ffac32bf3b934eb48bf39d96",
+    "semantic_hash": ""
+  },
+  "lib/livekit.ts": {
+    "mtime": 1781393295.0447474,
+    "ast_hash": "ccb3414c06b133cf394a568130b5427d",
+    "semantic_hash": ""
+  },
+  "lib/rooms.test.ts": {
+    "mtime": 1781393295.0532277,
+    "ast_hash": "c212abff5bcb26305739fb2958979246",
+    "semantic_hash": ""
+  },
+  "lib/rooms.ts": {
+    "mtime": 1781392945.197651,
+    "ast_hash": "352c315f55be2c318f31a523e5b0dd10",
+    "semantic_hash": ""
+  },
+  "next-env.d.ts": {
+    "mtime": 1781393720.6718698,
+    "ast_hash": "2a74d3909800ca5467fa83b0ab4a4890",
+    "semantic_hash": ""
+  },
+  "next.config.ts": {
+    "mtime": 1781392911.0226226,
+    "ast_hash": "3935539d2c844ca5f634dea2be4cef6d",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1781393693.8587317,
+    "ast_hash": "93d619bee969f93df3ea9383c9425998",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1781393363.2774668,
+    "ast_hash": "dde7b5b50cafe015a0df0fd18e202363",
+    "semantic_hash": ""
+  },
+  "vitest.config.ts": {
+    "mtime": 1781393392.345589,
+    "ast_hash": "6e816c65ddf2f7f9d1c4c1db1252e651",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/SKILL.md": {
+    "mtime": 1781391616.578583,
+    "ast_hash": "5c72924d8902cf334936c5827ff65349",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/add-watch.md": {
+    "mtime": 1781390680.4564633,
+    "ast_hash": "0df0589623217ca38a12bdcabfb42f4c",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/exports.md": {
+    "mtime": 1781390680.460529,
+    "ast_hash": "c04ddf8f1f5ef5e262ebec491a523c74",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1781390680.4625678,
+    "ast_hash": "a86a7321597b23cc2b22e011b3dc6e1d",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1781390680.4646058,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/hooks.md": {
+    "mtime": 1781390680.4646058,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/query.md": {
+    "mtime": 1781390680.4841058,
+    "ast_hash": "c2a8e798674a81b02aa9975f43023819",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/transcribe.md": {
+    "mtime": 1781390680.4861252,
+    "ast_hash": "70f6aa30d6211f3a2c7e9fc45479f50c",
+    "semantic_hash": ""
+  },
+  ".codex/skills/graphify/references/update.md": {
+    "mtime": 1781390680.4901583,
+    "ast_hash": "0dad167a95bdb389f02fecffb60b1bc8",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1781391909.3381255,
+    "ast_hash": "0bc78dd48dc1fa4a7d563355245b4df7",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1781393348.9001853,
+    "ast_hash": "c6e1d8742062f17debf638bd975f89f0",
+    "semantic_hash": ""
+  }
+}

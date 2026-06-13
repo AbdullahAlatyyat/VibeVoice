@@ -1,0 +1,8 @@
+.git
+.next/cache
+node_modules
+coverage
+.env
+.env*.local
+graphify-out
+npm-debug.log*
