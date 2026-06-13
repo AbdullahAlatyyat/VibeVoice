@@ -1,3 +1,8 @@
+## workflow
+
+- After any major change, commit and push the changes.
+- After running a graphify command that changes project files, update this file if needed, then commit and push the changes.
+
 ## graphify
 
 This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
